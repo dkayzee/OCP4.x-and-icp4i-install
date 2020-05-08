@@ -201,7 +201,7 @@ Use `ocp42-installer-template` as template. It should exist in `CSPLAB->SANDBOX-
           username: Muhammad.Islam
           password: [**************]
           datacenter: CSPLAB
-          defaultDatastore: SANDBOX_TIER4
+          defaultDatastore: SANDBOX_OCS
       pullSecret: '[your pull secret. Dont forget the single quotes]'
       sshKey: '[your public ssh-key from ~/.ssh/id_rsa.pub. Dont forget the single quotes]'
       ```
