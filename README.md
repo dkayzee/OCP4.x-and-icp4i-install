@@ -61,7 +61,7 @@ Below are some recommendations that should be followed.
 Master|3|16|64|300| | rhcos-4.2.0-x86_64-vmware-template |
 Worker|3|4|16|200| | rhcos-4.2.0-x86_64-vmware-template |
 Storage|3|4|16|200|500 | rhcos-4.2.0-x86_64-vmware-template |
-Bootstrap|1|4|16|100| | rhcos-4.2.0-x86_64-vmware-template |
+Bootstrap|1|4|16|120| | rhcos-4.2.0-x86_64-vmware-template |
 Install|1|4|16|200| | ocp42-installer-template |
 LB|1|4|16|120| | ocp42-lb-template |
 
